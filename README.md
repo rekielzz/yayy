@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center
 ![](https://64.media.tumblr.com/f3efa8369c3e1338c708ff77faa562e2/b3d83bbf44993478-55/s100x200/9d279c07135ea758d2ab9b02b414a46ef4feff07.gifv) 
 ![](https://64.media.tumblr.com/557b4a2bb9a280322393b4fc5aac5bc2/caa86dc6f92c4e03-ee/s100x200/cab5213741622b7d16e4862b2dd7252ac5c3ab7d.gifv) 
 ![](https://64.media.tumblr.com/77e3ff09ed63c44405482780721ba9de/caa86dc6f92c4e03-ad/s100x200/8b46a0ab5a328dd4867e8479bba5a24a2ee858d8.pnj) 
